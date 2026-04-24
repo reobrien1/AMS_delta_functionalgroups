@@ -62,7 +62,6 @@ ES&T Air 2026.
 - Aromatic fractions are lower bounds.
 - Other limitations are provided in the citation above.
 <br>
-<br>
   
 ## Getting Started
 ### Data Requirements
