@@ -9,30 +9,29 @@
 - [Overview](#overview)
 - [Citation](#citation)
 - [Key Features](#key-features)
+- [Limitations](#limitations)  
 - [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
-- [Limitations](#limitations)
 - [Support and Feedback](#support-and-feedback)
 
 ## Overview
-**AMS Delta Functional Group analysis (DFG)** is a Python-based workflow designed to deconvolve High-Resolution Aerosol Mass Spectrometer (HR-AMS) data sets into specific chemical functional groups. This method allows for the quantification of the relative fractions of five functional groups: alkyls, aromatics, alcohols, carboxylic acids, and ketones. AMS DFG is validated against FTIR measurements and chemical standards, and is corrected using the improved-ambient O:C framework (Canagaratna et al., 2015). This approach enables functional group quantification from existing HR-Tof-AMS datasets without requiring additional instrumentation.
+**AMS Delta Functional Group analysis (DFG)** is a Python-based workflow designed to deconvolve High-Resolution Aerosol Mass Spectrometer (HR-AMS) data sets into specific chemical functional groups. This method allows for the quantification of the relative fractions of five functional groups: alkyls, aromatics, alcohols, carboxylic acids, and ketones. AMS DFG is validated against FTIR measurements and chemical standards, and is corrected using the improved-ambient O:C framework (Canagaratna et al., 2015). This approach enables functional group quantification from existing HR-ToF-AMS datasets without requiring additional instrumentation.
 
 ## Citation
 If you use this tool or this method for your research, please cite: 
 O'Brien et al., "Application of a Chemical Index to Aerosol Mass Spectrometry: Delta Plots and Functional Group Distributions" ES&T Air 2026. 
-Note: this will be updated once the full citation is available.
+*Note: this will be updated once the full citation is available.*
 
 ## Key Features
 **Radial Delta Plots:** Visualize the distribution of carbon, hydrogen, and oxygen containing fragments. 
 <p align="left">
-  <img src="Example_deltaplot.png" width="400" alt="DFG Logo">
+  <img src="Example_deltaplot.png" width="400" alt="Example radial delta plot">
 </p>
 
 
 
 **Functional Group Quantification:** An algorithm validated against chemical standards and FTIR measurements, corrected using the improved-ambient O:C ratio framework. Provides relative fractions of five functional groups: alkyls, aromatics, alcohols, carboxylic acids, and ketones.
 <p align="left">
-  <img src="Example_FG.png" width="400" alt="DFG Logo">
+  <img src="Example_FG.png" width="400" alt="Example functional group distribution output">
 </p>
 
 ## Limitations
@@ -77,4 +76,4 @@ We are continuously refining this tool as new standards and methods are integrat
 We appreciate feedback! If you encounter performance issues or have suggestions for refinement, please let us know. For questions please reach out to Rachel O'Brien (reobrien@umich.edu). If you have issues, feel free to open an Issue in this GitHub repository to report bugs. We are unable to provide extensive individual troubleshooting for all data sets, but we will do our best to answer questions about the algorithm's logic and setup.
 
 ----
-*Developed at the University of Michigan*
+*Developed at the University of Michigan Department of Civil and Environmental Engineering*
