@@ -10,7 +10,7 @@
 
 ## Citation
 If you use this tool or this method for you research, please cite: 
-**O'Brien et al., "Application of a Chemical Index to Aerosol Mass Spectrometry: Delta Plots and Functional Group Distributions" ES&T Air 2026. 
+O'Brien et al., "Application of a Chemical Index to Aerosol Mass Spectrometry: Delta Plots and Functional Group Distributions" ES&T Air 2026. 
 Note: this will be updated once the full citation is avaiable.
 
 ## Key Features
