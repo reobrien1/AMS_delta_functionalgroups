@@ -39,6 +39,7 @@ O'Brien et al., "Application of a Chemical Index to Aerosol Mass Spectrometry: D
   <img src="Example_FG.png" width="400" alt="Example functional group distribution output">
 </p>
 <br>
+
 ## Limitations
 - Requires HR-ToF-AMS data with ion formula assignments. 
 - Not compatible with ACSM data (insufficient mass resolution). This is an area of ongoing work, check back here for updates.
