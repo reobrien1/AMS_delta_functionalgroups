@@ -53,8 +53,6 @@ To use these code blocks, data sets must be '.csv' files with the following colu
    If data is not normalized to a sum of 1, add all the intensities together in the frac_abundance column and then divide each ion intensity by this total. This column becomes the new 'frac_abundance' column.
 <img width="293" height="228" alt="example .csv file structure" src="https://github.com/user-attachments/assets/3a4d5c47-6d59-487d-bd65-968e95a44a1b" />
 
-
-
 ### How to Run
 1. **Open Google Colab:** Go to [colab.research.google.com](https://colab.research.google.com).
 2. **Import from GitHub:** On the opening "Select File" screen, click the **GitHub** tab. 
