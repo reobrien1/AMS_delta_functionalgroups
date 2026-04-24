@@ -1,4 +1,5 @@
-# AMS delta functional group analysis (DFG): Quantifying functional group distributions from AMS data sets
+# DFG: Delta Functional Group analysis
+**Quantifying functional group distributions from AMS data sets**
 
 ## Overview
 **AMS Delta Functioanl Group analysis (DFG)** is a validated Python-based workflow designed to deconvolve High-Resolution Aerosol Mass Spectrometer (HR-AMS) data into specific chemical functional groups. This method allows for the quantification of the relative fractions of five functional groups: alkyls, aromatics, alcohols, carboxylic acids, and ketones.
