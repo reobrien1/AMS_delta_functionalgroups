@@ -28,6 +28,8 @@ Note: this will be updated once the full citation is available.
   <img src="Example_deltaplot.png" width="400" alt="DFG Logo">
 </p>
 
+
+
 **Functional Group Quantification:** An algorithm validated against chemical standards and FTIR measurements, corrected using the improved-ambient O:C ratio framework. Provides relative fractions of five functional groups: alkyls, aromatics, alcohols, carboxylic acids, and ketones.
 <p align="left">
   <img src="Example_FG.png" width="400" alt="DFG Logo">
