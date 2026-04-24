@@ -33,10 +33,12 @@ O'Brien et al., "Application of a Chemical Index to Aerosol Mass Spectrometry: D
 <br>
 
 **Functional Group Quantification:** An algorithm validated against chemical standards and FTIR measurements, corrected using the improved-ambient O:C ratio framework. Provides relative fractions of five functional groups: alkyls, aromatics, alcohols, carboxylic acids, and ketones.
+<br>
+<br>
 <p align="left">
   <img src="Example_FG.png" width="400" alt="Example functional group distribution output">
 </p>
-
+<br>
 ## Limitations
 - Requires HR-ToF-AMS data with ion formula assignments. 
 - Not compatible with ACSM data (insufficient mass resolution). This is an area of ongoing work, check back here for updates.
