@@ -45,6 +45,12 @@ To use these code blocks, data sets must be '.csv' files with the following colu
 3. 'frac_abundance': the fractional abundance of the ion (the data should be **normalized** to a sum of 1 for all the ion intensities)
    If data is not normalized to a sum of 1, add all the intensities together in the frac_abundance column and then divide each ion intensity by this total. This column becomes the new 'frac_abundance' column
 
+Example data format structure:
+   mass, formula, frac_abundance
+15,  CH3+,    0.0234
+16,  O+,      0.0012
+...
+
 ### How to Run
 1. **Open Google Colab:** Go to [colab.research.google.com](https://colab.research.google.com).
 2. **Import from GitHub:** On the opening "Select File" screen, click the **GitHub** tab. 
