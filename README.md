@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="promo.png" width="400" alt="DFG Logo">
+  <img src="images/promo.png" width="400" alt="DFG Logo">
 </p>
 <br>
 
@@ -42,7 +42,7 @@ ES&T Air 2026.
 <br>
 <br>
 <p align="left">
-  <img src="Example_deltaplot.png" width="400" alt="Example radial delta plot">
+  <img src="images/Example_deltaplot.png" width="400" alt="Example radial delta plot">
 </p>
 <br>
 
@@ -51,7 +51,7 @@ ES&T Air 2026.
 <br>
 
 <p align="left">
-  <img src="Example_FG.png" width="400" alt="Example functional group distribution output">
+  <img src="images/Example_FG.png" width="400" alt="Example functional group distribution output">
 </p>
 <br>
 
