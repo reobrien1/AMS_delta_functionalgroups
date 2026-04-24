@@ -20,6 +20,7 @@
 ## Citation
 If you use this tool or this method for your research, please cite: 
 O'Brien et al., "Application of a Chemical Index to Aerosol Mass Spectrometry: Delta Plots and Functional Group Distributions" ES&T Air 2026. 
+<br>
 *Note: this will be updated once the full citation is available.*
 
 ## Key Features
@@ -45,15 +46,14 @@ O'Brien et al., "Application of a Chemical Index to Aerosol Mass Spectrometry: D
 ## Getting Started
 ### Data Requirements
 Two code blocks are included here for delta analysis of AMS data. The first generates radial delta plots for carbon, hydrogen, and oxygen containing fragments (Delta_plot_). The second calculates the functional group distribution for an AMS mass spectrum (Delta_functional_groups_). 
-
+<br>
 To use these code blocks, data sets must be '.csv' files with the following columns:
 1. 'mass': the m/z value.
 2. 'formula': the assigned ion formula
 3. 'frac_abundance': the fractional abundance of the ion (the data should be **normalized** to a sum of 1 for all the ion intensities)
    If data is not normalized to a sum of 1, add all the intensities together in the frac_abundance column and then divide each ion intensity by this total. This column becomes the new 'frac_abundance' column.
 <img width="293" height="228" alt="example .csv file structure" src="https://github.com/user-attachments/assets/3a4d5c47-6d59-487d-bd65-968e95a44a1b" />
-
-...
+<br>
 A sample dataset is provided in the `data/example_data/` folder 
 to help you verify the code is running correctly before applying 
 the workflow to your own data.
