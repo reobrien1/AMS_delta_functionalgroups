@@ -58,7 +58,6 @@ ES&T Air 2026.
 
 ## Limitations
 - Requires HR-ToF-AMS data with ion formula assignments. 
-<br>
 - Not compatible with ACSM data (insufficient mass resolution). This is an area of ongoing work, check back here for updates.
 <br>
 - Currently recommended for ambient and chamber organic aerosol data sets. Performance may vary for unique aerosol types that are not chemically similar to these types.
