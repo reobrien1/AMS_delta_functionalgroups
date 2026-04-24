@@ -1,7 +1,7 @@
 # AMS delta functional groups: Quantifying functional group distributions from AMS data sets
 This program provides the fraction of alkyl, aromatic, ketone, alcohol, and carboxylic acid groups present in an AMS mass spectrum. If you use this tool or this method for you research, please cite: O'Brien et al., "Application of a Chemical Index to Aerosol Mass Spectrometry: Delta Plots and Functional Group Distributions" ES&T Air 2026. Note: this will be updated once the full citation is avaiable.
 
-# Overview
+## Overview
 This repository provides Python-based programs for the deconvolution of High Resolution Time-of-flight Aerosol Mass Spectrometer (HR-ToF-AMS) data sets into specific chemical fractions. This method allows for the quantification of five functional groups: alkyls, aromatics, alcohols, carboxylic acids, and ketones.
 
 # Key Features
