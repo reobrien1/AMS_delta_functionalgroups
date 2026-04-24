@@ -30,8 +30,7 @@ Note: this will be updated once the full citation is available.
 ## Limitations
 - Requires HR-ToF-AMS data with ion formula assignments. 
 - Not compatible with ACSM data (insufficient mass resolution). This is an area of ongoing work, check back here for updates.
-- Currently recommended for ambient and chamber organic aerosol data sets. 
-- Performance may vary for unique aerosol types that are not chemically similar to these types.
+- Currently recommended for ambient and chamber organic aerosol data sets. Performance may vary for unique aerosol types that are not chemically similar to these types.
 - Aromatic fractions are lower bounds.
 - Other limitations are provided in the citation above.
   
