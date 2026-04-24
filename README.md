@@ -43,7 +43,8 @@ To use these code blocks, data sets must be '.csv' files with the following colu
 2. 'formula': the assigned ion formula
 3. 'frac_abundance': the fractional abundance of the ion (the data should be **normalized** to a sum of 1 for all the ion intensities)
    If data is not normalized to a sum of 1, add all the intensities together in the frac_abundance column and then divide each ion intensity by this total. This column becomes the new 'frac_abundance' column.
-<img width="293" height="228" alt="Example .csv file structure" src="..."/>
+<img width="293" height="228" alt="example .csv file structure" src="https://github.com/user-attachments/assets/3a4d5c47-6d59-487d-bd65-968e95a44a1b" />
+
 
 
 ### How to Run
