@@ -23,8 +23,6 @@
 <br>
 
 ## Citation
-<br>
-
 If you use this tool or this method for your research, 
 please cite:
 
@@ -37,7 +35,6 @@ ES&T Air 2026.
 <br>
 
 ## Key Features
-<br>
 
 **Radial Delta Plots:** Visualize the distribution of carbon, hydrogen, and oxygen containing fragments.
 <br>
@@ -57,7 +54,6 @@ ES&T Air 2026.
 <br>
 
 ## Limitations
-<br>
 - Requires HR-ToF-AMS data with ion formula assignments. 
 <br>
 - Not compatible with ACSM data (insufficient mass resolution). This is an area of ongoing work, check back here for updates.
@@ -70,8 +66,6 @@ ES&T Air 2026.
 <br>
   
 ## Getting Started
-<br>
-
 ### Data Requirements
 Two code blocks are included here for delta analysis of AMS data. The first generates radial delta plots for carbon, hydrogen, and oxygen containing fragments (Delta_plot_v1_0_1.ipynb). The second calculates the functional group distribution for an AMS mass spectrum (Delta_functional_groups_v1_0_2.ipynb). 
 <br>
@@ -94,7 +88,6 @@ the workflow to your own data.
 <br>
 
 ### How to Run
-<br>
 1. **Open Google Colab:** Go to [colab.research.google.com](https://colab.research.google.com).
 2. **Import from GitHub:** On the opening "Select File" screen, click the **GitHub** tab. 
 3. **Link the Repo:** Paste this repository link: `https://github.com/reobrien1/AMS_delta_functionalgroups` and select the notebook you wish to run.
@@ -107,8 +100,6 @@ the workflow to your own data.
 <br>
 
 ### Stay Updated
-<br>
-
 We are continuously refining this tool as new standards and methods are integrated. Please check back regularly for updates to the deconvolution algorithm and expanded example datasets.
 <br>
 
@@ -118,8 +109,6 @@ We are continuously refining this tool as new standards and methods are integrat
 <br>
 
 ## Dependencies
-<br>
-
 This workflow requires the following Python packages
 (automatically available in Google Colab):
 - `numpy`
@@ -128,13 +117,10 @@ This workflow requires the following Python packages
 <br>
 
 ## Support and Feedback
-<br>
 We appreciate feedback! If you encounter performance issues or have suggestions for refinement, please let us know. For questions please reach out to Rachel O'Brien (reobrien@umich.edu). If you have issues, feel free to open an Issue in this GitHub repository to report bugs. We are unable to provide extensive individual troubleshooting for all data sets, but we will do our best to answer questions about the algorithm's logic and setup.
 <br>
 
 ## License
-<br>
-
 This project is licensed under the GNU General Public License v3.0.
 See the [LICENSE](LICENSE) file for details.
 <br>
