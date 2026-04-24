@@ -1,5 +1,4 @@
 # AMS delta functional groups: Quantifying functional group distributions from AMS data sets
-This program provides the fraction of alkyl, aromatic, ketone, alcohol, and carboxylic acid groups present in an AMS mass spectrum. 
 
 ## Overview
 **AMS-Delta-Groups** is a validated Python-based workflow designed to deconvolve High-Resolution Aerosol Mass Spectrometer (HR-AMS) data into specific chemical functional groups. This method allows for the quantification of five functional groups: alkyls, aromatics, alcohols, carboxylic acids, and ketones.
