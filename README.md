@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="promo.png" width="400" alt="DFG Logo">
+</p>
+
 # DFG: Delta Functional Group analysis
 **Quantifying functional group distributions from AMS data sets**
 
