@@ -19,7 +19,7 @@
 <br>
 
 ## Overview
-**AMS Delta Functional Group analysis (DFG)** is a Python-based workflow designed to deconvolve High-Resolution Aerosol Mass Spectrometer (HR-AMS) data sets into specific chemical functional groups. This method allows for the quantification of the relative fractions of five functional groups: alkyls, aromatics, alcohols, carboxylic acids, and ketones. AMS DFG is validated against FTIR measurements and chemical standards, and is corrected using the improved-ambient O:C framework (Canagaratna et al., 2015). This approach enables functional group quantification from existing HR-ToF-AMS datasets without requiring additional instrumentation.
+**AMS Delta Functional Group analysis (DFG)** is a Python-based workflow designed to deconvolve High-Resolution Aerosol Mass Spectrometer (HR-AMS) data sets into specific chemical functional groups. This method allows for the quantification of the relative fractions of five functional groups: alkyls, aromatics, alcohols, carboxylic acids, and ketones. AMS DFG is validated against FTIR measurements and chemical standards, and is corrected using the improved-ambient O:C value (Canagaratna et al., 2015). This approach enables functional group quantification from existing HR-ToF-AMS datasets without requiring additional instrumentation.
 <br>
 <br>
 
