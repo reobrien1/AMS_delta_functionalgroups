@@ -23,7 +23,15 @@ To use these code blocks, data sets must be '.csv' files with the following colu
 3. 'frac_abundance': the fractional abundance of the ion (the data should be **normalized** to a sum of 1 for all the ion intensities)
 
 ### How to Run
-Open your Google Collaboraotry. On the opening page, you should have the option to click on GitHub under "Open notebook". Paste this Github link (https://github.com/reobrien1/AMS_delta_functionalgroups) into this page and it will open the Google Collaboratory pages that are available here. We recommend storing the .csv data files in a google folder under your account. You can then change the information in the third block: "Import your data" to match the location of your data sets. Once this is done, you should be able to click "Run all" at the top and your figure should be displayed at the bottom of the page.
+1. **Open Google Colab:** Go to [colab.research.google.com](https://colab.research.google.com).
+2. **Import from GitHub:** On the opening "Select File" screen, click the **GitHub** tab. 
+3. **Link the Repo:** Paste this repository link: `https://github.com/reobrien1/AMS_delta_functionalgroups` and select the notebook you wish to run.
+4. **Connect your Data:** We recommend storing your `.csv` data files in a folder on your **Google Drive**. 
+    * Ensure you run the "Mount Google Drive" step in the notebook to allow Colab to access your files.
+    * Update the file path in the **"Import your data"** code block to match your specific folder location.
+5. **Execute:** Once the path is set, go to the **Runtime** menu at the top and select **"Run all"**. Your generated figures and functional group distributions will be displayed at the bottom of the page.
+
+> **Tip:** If the code fails to load, double-check that your CSV column headers exactly match the requirements (`mass`, `formula`, `frac_abundance`) and that your data is normalized to a sum of 1.
 
 ## Support and Feedback
 We appreciate feedback! If you encounter performance issues or have suggestions for refinement, please let us know. For questions please reach out to Rachel O'Brien (reobrien@umich.edu). If you have issues, feel free to open an Issue in this GitHub repostiory to report bugs. We are unable to provide extensive individual troubleshooting for all data sets, but we will do our best to answer questions about the algorithm's logic and setup.
