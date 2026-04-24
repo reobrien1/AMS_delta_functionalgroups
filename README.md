@@ -95,7 +95,8 @@ the workflow to your own data.
     * Update the file path in the **"Import your data"** code block to match your specific folder location.
 5. **Execute:** Once the path is set, go to the **Runtime** menu at the top and select **"Run all"**. Your generated figures and functional group distributions will be displayed at the bottom of the page.
 <br>
-> **Tip:** If the code fails to run, double-check the file name and that your CSV column headers exactly match the requirements (`mass`, `formula`, `frac_abundance`) and that your data is normalized to a sum of 1.
+
+**Tip:** If the code fails to run, double-check the file name and that your CSV column headers exactly match the requirements (`mass`, `formula`, `frac_abundance`) and that your data is normalized to a sum of 1.
 <br>
 
 ### Stay Updated
