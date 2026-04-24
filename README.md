@@ -18,9 +18,9 @@ Note: this will be updated once the full citation is avaiable.
 Two code blocks are included here for delta analysis of AMS data. The first generates radial delta plots for carbon, hydrogen, and oxygen containing fragments (Delta_plot_). The second calculates the functional group distribution for an AMS mass spectrum (Delta_functional_groups_). 
 
 To use these code blocks, data sets must be '.csv' files with the following columns:
-1. 'mass'" the m/z value.
+1. 'mass': the m/z value.
 2. 'formula': the assigned ion formula
-3. 'frac_abundance'": the fractional abundance of the ion (the data should be **normalized** to a sum of 1 for all the ion intensities)
+3. 'frac_abundance': the fractional abundance of the ion (the data should be **normalized** to a sum of 1 for all the ion intensities)
 
 ### How to Run
 Open your Google Collaboraotry. On the opening page, you should have the option to click on GitHub under "Open notebook". Paste this Github link (https://github.com/reobrien1/AMS_delta_functionalgroups) into this page and it will open the Google Collaboratory pages that are available here. We recommend storing the .csv data files in a google folder under your account. You can then change the information in the third block: "Import your data" to match the location of your data sets. Once this is done, you should be able to click "Run all" at the top and your figure should be displayed at the bottom of the page.
