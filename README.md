@@ -99,6 +99,7 @@ the workflow to your own data.
 
 **Tip:** If the code fails to run, double-check the file name and that your CSV column headers exactly match the requirements (`mass`, `formula`, `frac_abundance`) and that your data is normalized to a sum of 1.
 <br>
+<br>
 
 ### Stay Updated
 We are continuously refining this tool as new standards and methods are integrated. Please check back regularly for updates to the deconvolution algorithm and expanded example datasets.
@@ -119,6 +120,7 @@ This workflow requires the following Python packages
 
 ## Support and Feedback
 We appreciate feedback! If you encounter performance issues or have suggestions for refinement, please let us know. For questions please reach out to Rachel O'Brien (reobrien@umich.edu). If you have issues, feel free to open an Issue in this GitHub repository to report bugs. We are unable to provide extensive individual troubleshooting for all data sets, but we will do our best to answer questions about the algorithm's logic and setup.
+<br>
 <br>
 
 ## License
