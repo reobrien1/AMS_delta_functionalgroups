@@ -63,7 +63,7 @@ Rachel O'Brien; Manjula Canagaratna; Xu He; Yeaseul (Janie) Kim; Adam Nix, Hanna
   
 ## Getting Started
 ### Data Requirements
-Two code blocks are included here for delta analysis of AMS data. The first generates radial delta plots for carbon, hydrogen, and oxygen containing fragments (Delta_plot_v1_0_1.ipynb). The second calculates the functional group distribution for an AMS mass spectrum (Delta_functional_groups_v1_0_2.ipynb). 
+Two code blocks are included here for delta analysis of AMS data. The first generates radial delta plots for carbon, hydrogen, and oxygen containing fragments (Delta_plot.ipynb). The second calculates the functional group distribution for an AMS mass spectrum (Delta_functional_groups.ipynb). 
 <br>
 
 To use these code blocks, data sets must be '.csv' files with the following columns:
