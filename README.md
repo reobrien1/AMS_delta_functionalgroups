@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="images/promo.png" width="400" alt="DFG Logo">
+  <img src="images/promo2.png" width="400" alt="DFG Logo">
 </p>
 <br>
 
