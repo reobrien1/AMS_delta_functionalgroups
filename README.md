@@ -77,8 +77,8 @@ To use these code blocks, data sets must be '.csv' files with the following colu
 <br>
 <img width="293" height="228" alt="example .csv file structure" src="https://github.com/user-attachments/assets/3a4d5c47-6d59-487d-bd65-968e95a44a1b" />
 <br>
-
 **Tip** If your data is not normalized, divide each value in the frac_abundance column by the total abundance. This column becomes the new frac_abundance column.
+<br>
 <br>
 A sample dataset is provided in the `data/example_data/` folder 
 to help you verify the code is running correctly before applying 
