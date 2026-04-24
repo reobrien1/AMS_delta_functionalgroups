@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="promo.png" width="400" alt="DFG Logo">
 </p>
 
