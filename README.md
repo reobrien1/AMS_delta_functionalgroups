@@ -76,5 +76,8 @@ We are continuously refining this tool as new standards and methods are integrat
 ## Support and Feedback
 We appreciate feedback! If you encounter performance issues or have suggestions for refinement, please let us know. For questions please reach out to Rachel O'Brien (reobrien@umich.edu). If you have issues, feel free to open an Issue in this GitHub repository to report bugs. We are unable to provide extensive individual troubleshooting for all data sets, but we will do our best to answer questions about the algorithm's logic and setup.
 
+## License
+This project is licensed under the GNU General Public License v3.0.
+See the [LICENSE](LICENSE) file for details.
 ----
 *Developed at the University of Michigan Department of Civil and Environmental Engineering*
