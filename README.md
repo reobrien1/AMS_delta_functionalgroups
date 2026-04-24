@@ -9,7 +9,7 @@ If you use this tool or this method for you research, please cite:
 Note: this will be updated once the full citation is avaiable.
 
 ## Key Features
-**Radial Delta Plots:** Visualize the distribution of Carbon, Hydrogen, and Oxygen containing fragments. 
+**Radial Delta Plots:** Visualize the distribution of carbon, hydrogen, and oxygen containing fragments. 
 **Functional Group Quantification:** An algorithm tested against standards and FTIR data to provide chemical characteristics of the mixtures
 
 ## Getting Started
