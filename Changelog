@@ -1,1 +1,5 @@
-
+## [1.0.2] - 2026-04-24
+### Fixed
+- [Added label at the top of the notebook and moved the fractions outside the circle to make them easier to read]
+### Impact
+- [No impact on resutls, hopefully the figure is easier to read]
