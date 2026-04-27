@@ -49,7 +49,7 @@ Rachel O'Brien; Manjula Canagaratna; Xu He; Yeaseul (Janie) Kim; Adam Nix, Hanna
 <br>
 
 <p align="left">
-  <img src="images/Example_FG3.png" width="400" alt="Example functional group distribution output">
+  <img src="images/Example_FG4.png" width="400" alt="Example functional group distribution output">
 </p>
 <br>
 
