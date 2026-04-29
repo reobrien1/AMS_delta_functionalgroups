@@ -27,7 +27,7 @@
 If you use this tool or this method for your research, 
 please cite:
 
-Rachel O'Brien; Manjula Canagaratna; Xu He; Yeaseul (Janie) Kim; Adam Nix, Hannah Kenagy; "Application of a Chemical Index to Aerosol Mass Spectrometry: Delta Plots and Functional Group Distributions" ES&T Air 2026.
+Rachel O'Brien; Manjula Canagaratna; Xu He; Yeaseul (Janie) Kim; Adam Nix, Hannah Kenagy; "Application of a Chemical Index to Aerosol Mass Spectrometry: Delta Plots and Functional Group Distributions" ES&T Air 2026. https://doi.org/10.1021/acsestair.6c00059
 <br>
 
 *Note: this will be updated once the full citation is available.*
