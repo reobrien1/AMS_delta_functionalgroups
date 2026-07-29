@@ -7,3 +7,9 @@
 - [Added label at the top of the notebook and moved the fractions outside the circle to make them easier to read for functional group plot. Also added the label at the top of the delta plot notebook]
 ### Impact
 - [No impact on resutls, hopefully the figure is easier to read]
+
+## [1.0.3] - 2026-07-28
+### Fixed
+- [Called the file names before each correction code block so that the correct values are being read]
+### Impact
+- [The old script was calling the first output and not adding the corrections for the separate correction steps]
